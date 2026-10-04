@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# YOLO / generated files
+runs/
+*.pt
+
+# Large videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# IDE
+.vscode/
+
+# Python cache
+.pytest_cache/
